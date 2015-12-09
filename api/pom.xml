@@ -4,9 +4,9 @@
 	<parent>
 		<groupId>org.openmrs.module</groupId>
 		<artifactId>ipd</artifactId>
-		<version>0.10.0</version>
+		<version>0.10.1-SNAPSHOT</version>
 	</parent>
-	<groupId>org.openmrs.module</groupId>
+
 	<artifactId>ipd-api</artifactId>
 	<packaging>jar</packaging>
 	<name>ipd api</name>
